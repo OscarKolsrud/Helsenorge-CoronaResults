@@ -21,8 +21,6 @@ url = "https://tjenester.helsenorge.no/proxy/Provesvar/api/v1/GetProvesvar"
 payload={}
 
 headers = {
-    'hnauthenticatedhash': 'hash here, fetch it from network tab in a browser. Look for the API call to https://tjenester.helsenorge.no/proxy/Provesvar/api/v1/GetProvesvar',
-    'hnanonymoushash': 'hash here, fetch it from network tab in a browser Look for the API call to https://tjenester.helsenorge.no/proxy/Provesvar/api/v1/GetProvesvar',
     'Cookie': 'cookies here, fetch it from network tab in a browser. Just copy paste all the values inside here Look for the API call to https://tjenester.helsenorge.no/proxy/Provesvar/api/v1/GetProvesvar'
 }
 

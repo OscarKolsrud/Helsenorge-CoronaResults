@@ -3,6 +3,8 @@
 This tool was made because i got tired of refreshing Helsenorge waiting for my results after having been exposed to the virus.
 Feel free to fork and use for your own purposes.
 
+Apparently Helsenorge has since i wrote this code implemented it themself.
+
 
 ## Known issues
 This tool only works if you do not have a previous test result (aka. the array returned from Helsenorge is empty. I may improve it in the future once i know how the response from the API looks.
